@@ -1,0 +1,67 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Aug 01 10:34:57 2019
+\t (00:00:01)         Host=DESKTOP-0CCQGI6 User=user Pid=8804 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\WORK\8.1\allegro\8_1.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/WORK/8.1/allegro/8_1.brd
+\i (00:00:04) trapsize 4430
+\i (00:00:04) trapsize 4598
+\i (00:00:04) trapsize 4598
+\i (00:00:04) generaledit 
+\i (00:00:09) done 
+\i (00:00:09) place manual 
+\i (00:00:09) FORM plc_manual placement_list 
+\i (00:00:09) FORM plc_manual categories Components by refdes 
+\i (00:00:09) trapsize 4598
+\i (00:00:10) setwindow form.plc_manual
+\i (00:00:10) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:11) Placing U1 / LF351_1_DIP8_3_LF351 / DIP8_3 on Top.
+\i (00:00:11) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) pick grid 77.6275 84.4778
+\t (00:00:13) last pick:  78.0000 84.0000
+\t (00:00:13) Placing U2 / LF351_1_DIP8_3_LF351 / DIP8_3 on Top.
+\i (00:00:15) pick grid 62.6396 87.5121
+\t (00:00:15) last pick:  63.0000 88.0000
+\t (00:00:15) Placing U3 / LF351_1_DIP8_3_LF351 / DIP8_3 on Top.
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 64.7544 80.9836
+\i (00:00:16) trapsize 9195
+\i (00:00:17) pick grid 51.3296 92.7534
+\t (00:00:17) last pick:  51.0000 93.0000
+\t (00:00:17) Placing U4 / LF351_1_DIP8_3_LF351 / DIP8_3 on Top.
+\i (00:00:18) pick grid 36.4336 94.4085
+\t (00:00:18) last pick:  36.0000 94.0000
+\e (00:00:18) Cannot load symbol 'TO220AD'
+\i (00:00:30) setwindow form.plc_manual
+\i (00:00:30) FORM plc_manual done  
+\i (00:00:30) setwindow pcb
+\i (00:00:30) generaledit 
+\i (00:00:31) save 
+\i (00:00:32) fillin yes 
+\i (00:00:32) generaledit 
+\i (00:00:37) done 
+\i (00:00:37) place manual 
+\i (00:00:37) FORM plc_manual placement_list 
+\i (00:00:37) FORM plc_manual categories Components by refdes 
+\i (00:00:37) trapsize 9195
+\i (00:00:38) setwindow form.plc_manual
+\i (00:00:38) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\e (00:00:38) Cannot load symbol 'TO220AD'
+\i (00:00:38) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) pick grid -24.4377 53.7663
+\t (00:00:39) last pick:  -24.0000 54.0000
+\i (00:00:41) setwindow form.plc_manual
+\i (00:00:41) FORM plc_manual cancel  
+\i (00:00:41) setwindow pcb
+\i (00:00:41) generaledit 
+\i (00:01:08) save 
+\i (00:01:10) fillin yes 
+\i (00:01:10) generaledit 
+\i (00:01:11) exit 
+\t (00:01:11)     Journal end - Thu Aug 01 10:36:08 2019
